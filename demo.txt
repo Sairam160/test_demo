@@ -1,4 +1,5 @@
 a=int(input("Enter number a:"))
 b=int(input("Enter number b:"))
 c=a+b
+# it will print a+b value
 print(c)
